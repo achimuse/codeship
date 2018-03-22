@@ -1,0 +1,5 @@
+---
+  app: 
+    image: "node:latest"
+    environment: 
+      HIT: "the road"
